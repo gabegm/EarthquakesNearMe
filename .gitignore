@@ -1,0 +1,13 @@
+# IDE
+.idea
+.vscode
+
+# dependencies
+node_modules
+
+# bundle
+packages/**/*.d.ts
+packages/**/*.js
+
+# misc
+.DS_Store
